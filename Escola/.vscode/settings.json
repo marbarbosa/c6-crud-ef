@@ -1,0 +1,16 @@
+{
+    "editor.fontLigatures": false,
+    "workbench.colorCustomizations": {
+        "[Eva Light]": {
+            "panel.background": "#ffffff",
+            "editor.background": "#ffffff",
+            "sideBar.background": "#fcfcfc",
+            "terminal.background": "#ffffff"
+        },
+        "[Catppuccin Latte]": {
+            "panel.background": "#ffffff",
+            "editor.background": "#ffffff",
+            "sideBar.background": "#fcfcfc"
+        }
+    },
+}

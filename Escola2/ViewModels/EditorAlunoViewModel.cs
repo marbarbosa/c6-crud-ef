@@ -27,5 +27,8 @@ namespace Escola.ViewModels
 
         [Required(ErrorMessage = "O campo data da matricula é obrigatório")]
         public DateTime DataMatricula { get; set; }
+
+        [Required(ErrorMessage = "O campo usuário é obrigatório")]
+        public int UsuarioId { get; set; }
     }
 }
